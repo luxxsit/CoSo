@@ -1,2 +1,0 @@
-# CoSo
-CoSo stuffs
